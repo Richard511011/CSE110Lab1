@@ -28,4 +28,4 @@ System.out.println("Welcome to my page!");
 3. Cool
 
 - [x] Complete lab1
-- [] Complete lab2
+- [ ] Complete lab2
