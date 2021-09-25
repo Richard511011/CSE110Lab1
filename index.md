@@ -14,7 +14,7 @@
 ```
 System.out.println("Welcome to my page!");
 ```
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[Here is a section link](https://github.com/Richard511011/CSE110Lab1/tree/main#cse110lab1)
 [Here is a meme](https://i.redd.it/f6qlspzxrfp71.jpg)
 
 [If you want to know my favorite programming language](./README.md)
